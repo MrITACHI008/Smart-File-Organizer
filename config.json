@@ -1,0 +1,26 @@
+{
+    "source_folder": "path/to/source/folder",
+    "interval": 60,
+    "file_types": {
+        "pdf": "Documents",
+        "doc": "Documents",
+        "docx": "Documents",
+        "txt": "Documents",
+        "exe": "Programs",
+        "dmg": "Programs",
+        "deb": "Programs",
+        "mp4": "Videos",
+        "avi": "Videos",
+        "mkv": "Videos",
+        "mp3": "Audio",
+        "wav": "Audio",
+        "flac": "Audio",
+        "zip": "Compressed",
+        "rar": "Compressed",
+        "7z": "Compressed",
+        "jpg": "Images",
+        "jpeg": "Images",
+        "png": "Images",
+        "gif": "Images"
+    }
+}
